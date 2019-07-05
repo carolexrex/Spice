@@ -85,3 +85,5 @@ C:\Upplärningsprojekt\Spice\Spice\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Vie
 C:\Upplärningsprojekt\Spice\Spice\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\SubCategory\Delete.g.cshtml.cs
 C:\Upplärningsprojekt\Spice\Spice\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MenuItem\Index.g.cshtml.cs
 C:\Upplärningsprojekt\Spice\Spice\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MenuItem\Create.g.cshtml.cs
+C:\Upplärningsprojekt\Spice\Spice\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MenuItem\Edit.g.cshtml.cs
+C:\Upplärningsprojekt\Spice\Spice\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\MenuItem\Details.g.cshtml.cs

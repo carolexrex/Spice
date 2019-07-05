@@ -7,6 +7,6 @@ namespace Spice.Utility
 {
     public static class SD
     {
-        public const string DefaultFoodImage = "default food.png";
+        public const string DefaultFoodImage = "default_food.png";
     }
 }
